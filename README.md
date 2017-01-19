@@ -21,4 +21,4 @@ npm install && bower install
 grunt && mvn package
 ```
 
-totototototoototottotootoo
+Penser à ajouter les libs et scripts dans l'index avec les balises
