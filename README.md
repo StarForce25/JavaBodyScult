@@ -20,3 +20,5 @@ You can also simply generate a war file to deploy on your own tomcat instance
 npm install && bower install 
 grunt && mvn package
 ```
+
+totototototoototottotootoo
